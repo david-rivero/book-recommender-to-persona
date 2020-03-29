@@ -1,1 +1,0 @@
-BASE_URL_GOODREADS = 'https://www.goodreads.com/book/show/{id}'

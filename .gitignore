@@ -1,0 +1,3 @@
+venv/
+.vscode
+project/base_dataset/books_built.csv
