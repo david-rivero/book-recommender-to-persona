@@ -1,3 +1,4 @@
 venv/
 .vscode
 project/base_dataset/books_built.csv
+__pycache__
